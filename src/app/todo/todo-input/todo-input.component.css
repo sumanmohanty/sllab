@@ -1,0 +1,19 @@
+.additem{
+    position: relative;
+    padding-bottom: 0%;
+    height: 30px;
+    align-self: auto;
+    margin-left: 20cm;
+}
+.additem button{
+    background-color: black;
+    width: 45px;
+    height: 45px;
+    padding: 0px;
+}
+.addtext{
+    width:50%;
+    height: 30px;
+    padding: 5px;
+    font-size: 20px;
+}
